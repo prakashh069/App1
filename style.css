@@ -7,6 +7,6 @@
 .container{
     width: 100%;
     min-height:100vh ;
-    background-image: linear-gradient(to right, blue, green); /*smooth transitions between two or more specified colors. */
+    background: linear-gradient(135deg, #153677, #4e085f); /*smooth transitions between two or more specified colors. */
    padding: 10px;
 }
